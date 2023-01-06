@@ -1,0 +1,60 @@
+.h2 {
+    display: inline;
+    border-radius: 10px;
+    border: 3px dotted rgb(219, 219, 219);
+    padding: 10px;
+}
+
+.text {
+    margin: 40px 0px 20px 0px;
+    height: 30px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.button {
+    color: black;
+    background-color: rgb(230, 230, 230);
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: rgb(185, 185, 185);
+}
+
+.hidden {
+    display: none;
+}
+
+#output {
+    padding-top: 50px;
+}
+
+/* .personer {
+    
+} */
+.bildet {
+    width: 200px;
+}
+
+
+img {
+    border-radius: 6px;
+}
+
+.upp {
+    position: relative;
+    bottom: 70px;
+}
+
+#jobb {
+    margin-bottom: 0px;
+}
+
+.red {
+    color: red;
+    font-size: 20px;
+}
